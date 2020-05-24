@@ -1,6 +1,6 @@
 
 {
-    "name": "r_zero",
+    "name": "r_splash",
     "id": "f0ea170d-5c19-4b0b-939f-0de41c3caa9c",
     "creationCodeFile": "",
     "inheritCode": false,
