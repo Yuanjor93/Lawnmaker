@@ -1,5 +1,4 @@
 randomize();
-audio_play_sound(sound0,1,0);
 // Create the surface for the shadows
 shadow_surface_ = noone;
 
