@@ -42,7 +42,7 @@
             "Key": "0456fdea-985e-47a2-8066-ddcd732ecf2a",
             "Value": {
                 "id": "641ed465-f7b5-4c18-9f46-a9134d31e371",
-                "resourcePath": "rooms\/r_overworld\/r_overworld.yy",
+                "resourcePath": "rooms\/r_overworld_1\/r_overworld_1.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -52,6 +52,30 @@
                 "id": "949b53f5-d535-43e6-aaf4-de59a8872bf0",
                 "resourcePath": "objects\/o_level\/o_level.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "1777e2e0-445f-4096-bf18-b6c271478215",
+            "Value": {
+                "id": "c20d6896-1898-4707-834b-ce2b474537cf",
+                "resourcePath": "rooms\/r_overworld_2\/r_overworld_2.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "1d57dcff-9575-431c-8d4a-97cc0937b896",
+            "Value": {
+                "id": "0e224aaa-58fd-4b09-bc5b-94d95cac10c3",
+                "resourcePath": "rooms\/r_overworld_3\/r_overworld_3.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "1f856427-0017-462f-9803-aa7bb36780f1",
+            "Value": {
+                "id": "aeb79dfb-def7-4d36-938c-efa463ac972d",
+                "resourcePath": "sprites\/sprite9\/sprite9.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -151,6 +175,14 @@
             }
         },
         {
+            "Key": "8333ab2a-b78a-43bf-b234-4e9d8f084414",
+            "Value": {
+                "id": "0abf272e-4e97-4b0a-8362-175fbf207cf7",
+                "resourcePath": "sprites\/transition\/transition.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "8378a540-44a7-4dce-a565-cad94ad5a6fa",
             "Value": {
                 "id": "74689cf0-4307-4d24-8d2c-dd46d7412cf7",
@@ -239,6 +271,14 @@
             }
         },
         {
+            "Key": "bc4f7eff-abd8-4ccb-b72e-c7c94578bbe5",
+            "Value": {
+                "id": "e7d12d8d-4237-4427-86d0-7d1acd12232b",
+                "resourcePath": "rooms\/r_overworld_4\/r_overworld_4.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "c78255dd-efdf-48fb-b222-a010991416b8",
             "Value": {
                 "id": "39c6a215-5a56-4333-8cb4-6a39201903d5",
@@ -323,6 +363,14 @@
             "Value": {
                 "id": "1dbacabd-7b5c-4bf9-b0a3-2608fbc43776",
                 "resourcePath": "objects\/o_warp\/o_warp.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "edc5b543-6f88-4ff9-8989-6cc53f614a31",
+            "Value": {
+                "id": "20d2c1ba-4d2c-4f35-a59c-66bdb8d8750c",
+                "resourcePath": "objects\/o_transition\/o_transition.yy",
                 "resourceType": "GMObject"
             }
         },
